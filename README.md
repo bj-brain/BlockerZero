@@ -15,6 +15,28 @@ Most website blockers have to stay open in the background, which uses up your co
 
 ---
 
+##  Screenshots
+
+<p align="center">
+  <img src="Sample%202.png" width="85%">
+</p>
+<br>
+
+<p align="center">
+  <img src="Sample%201.png" width="85%">
+</p>
+<br>
+
+<p align="center">
+  <img src="Sample%203.png" width="85%">
+</p>
+
+<p align="center">
+  <img src="Sample%204.png" width="85%">
+</p>
+
+---
+
 ## How to Install and Run
 
 1. **Download the code** to your computer.
@@ -36,7 +58,3 @@ Is this safe for my computer?
 Yes! It simply tells your computer to route those specific distracting websites to a dead end. It does not track you, and it has no hidden background tasks.
 
 ---
-
-## About Me
-Baanujan Vijayarajan — Curious Individual
-I love building efficient, useful tools and learning about software engineering and cybersecurity.
