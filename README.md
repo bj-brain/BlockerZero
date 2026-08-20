@@ -2,11 +2,11 @@
 
 **Block distracting websites easily without slowing down your computer.**
 
-Most website blockers have to stay open in the background, which uses up your computer's memory (RAM) and battery. **ZeroBlock** is different. You open it, pick the websites you want to block, and then close the app. The websites stay blocked, but the app uses **zero background memory**.
+Most website blockers have to stay open in the background, which uses up your computer's memory (RAM) and battery. **BlockerZero** is different. You open it, pick the websites you want to block, and then close the app. The websites stay blocked, but the app uses **zero background memory**.
 
 ---
 
-##  Why use ZeroBlock?
+##  Why use BlockerZero?
 
 *  **No Background Drain:** Once you close the app, it uses 0% CPU and 0MB RAM.
 *  **Simple & Clean Design:** Easy to use with a modern Dark/Light mode interface.
