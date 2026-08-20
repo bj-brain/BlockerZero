@@ -1,4 +1,4 @@
-#  ZeroBlock
+#  BlockerZero
 
 **Block distracting websites easily without slowing down your computer.**
 
